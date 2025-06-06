@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="50" height="50" fill="#1a365d"/>
+    <text x="60" y="35" font-family="Arial" font-size="24" font-weight="bold" fill="#1a365d">Praesidion</text>
+    <text x="60" y="45" font-family="Arial" font-size="12" fill="#0f172a">Security</text>
+</svg> 
